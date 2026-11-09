@@ -41,7 +41,7 @@ All 8 coding problems are implemented in a single TypeScript file named `solutio
 ## 📂 Project Structure
 
 ```text
-mission-1-assignment-1-typescript-problem-solving/
+problem-solving-with-typescript/
 │
 ├── solutions.ts
 ├── type-vs-interface.md
